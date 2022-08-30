@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>java-web-app</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1.SNAPSHOT</version>
+	<version>1.0</version>
 	
 	<name>Maven Web Application</name>
 	<url>http://mithuntechnologies.com</url>
@@ -104,7 +104,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>Flipkart Nexus Repository</name>
 	      <url>http://50.17.147.77:8081/repository/Flipkart_RELEASE_New/</url>
 	    </repository>
 	    <snapshotRepository>
