@@ -101,7 +101,7 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
@@ -112,7 +112,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://50.17.147.77:8081/repository/Flipkart_SNAPSHOT_New/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement>
 	
 	<build>
 		<plugins>
